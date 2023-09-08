@@ -8,6 +8,8 @@ import subprocess
 import sys
 import textwrap
 
+print('test')
+
 def execute(cmd):
     cmd = cmd.strip()
 
